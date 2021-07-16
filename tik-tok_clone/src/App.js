@@ -31,7 +31,7 @@ function App() {
             />
         ))}
       </div>
-
+      <p>© Aika 2021</p>
     </div>
   );
 }
